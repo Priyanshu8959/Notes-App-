@@ -1,12 +1,66 @@
-# React + Vite
+📝 Notes App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and fast Notes App built using React and TailwindCSS.
+Add notes, delete notes, stay organized — or at least pretend to. 😄
 
-Currently, two official plugins are available:
+🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Hosted Link:  https://notes-app-eta-sand.vercel.app/
 
-## Expanding the ESLint configuration
+⭐ Features
+✔ Add Notes
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Type a title, add details, hit “Add Note,” and your sticky note appears instantly.
+
+✔ Delete Notes
+
+Made a mistake? Just delete the note and act like it never happened.
+
+✔ Sticky Note Design
+
+Every note looks like a real sticky note — cute, clean, and aesthetic.
+
+✔ Fully Responsive
+
+Smooth experience on mobile, tablet, and desktop.
+
+🧠 How It Works
+
+Notes are stored in a simple state array
+
+User inputs (title + details) are added as new notes
+
+Delete button removes individual notes
+
+UI is fully designed with TailwindCSS
+
+Entire app runs inside a clean React component
+
+🛠️ Tech Stack
+
+React
+
+Tailwind CSS
+
+JavaScript (ES6)
+
+Vite / CRA
+
+🤩 Why This Project Is Useful
+
+Beginner-friendly
+
+Clean & modern UI
+
+Perfect for learning React basics
+
+Great portfolio project
+
+👨‍💻 Author
+
+Priyanshu Pawar
+"Because even legends take notes." 😎
+
+⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub — it helps a lot!
