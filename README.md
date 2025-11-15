@@ -1,4 +1,4 @@
-📝 Notes App
+📝 Progressify - Notes App
 
 A simple and fast Notes App built using React and TailwindCSS.
 Add notes, delete notes, stay organized — or at least pretend to. 😄
